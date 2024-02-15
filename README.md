@@ -7,10 +7,10 @@ The SDAF project is an open-source initiative aimed at establishing a standardiz
 
 ## Objective
 
-Our main goal is to create a unified and adaptable ad format that simplifies data representation across different digital platforms. This standardization is crucial for:
-- Ensuring compliance with DSA regulations.
-- Facilitating seamless data exchange and interoperability among various advertising platforms.
-- Providing researchers and analysts with a coherent and comprehensive data structure for effective analysis.
+Our main goal is to create a unified and adaptable ad format that simplifies data representation across different digital platforms. This standardization is:
+- inline with the DSA requirements;
+- a facilitator for data exchange and interoperability among various advertising platforms;
+- a coherent and comprehensive data structure for effective analysis.
 
 ## Format Structure
 
