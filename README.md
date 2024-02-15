@@ -16,13 +16,15 @@ Our main goal is to create a unified and adaptable ad format that simplifies dat
 
 The SDAF outlines a structured approach to presenting digital ad data, encompassing several key aspects:
 
-- Campaign Details: Unique identifiers and basic information about the ad campaign.
-- Advertiser Information: Comprehensive details about the advertiser, ensuring transparency.
-- Creative Content: In-depth information about the creative elements used in the campaign.
-- Targeting Data: Granular information on how the ad targets specific audience segments.
-- Financials: Detailed breakdown of the campaign's budget and expenditure.
-- Moderation Status: Information on the ad's compliance with platform guidelines.
-- Extensible Parameters: A flexible section for platform-specific data.
+- [Campaign Details](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#1-campaign-identification-campaign_id): Unique identifiers and basic information about the ad campaign.
+- [Advertiser Information](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#2-advertiser-information-advertiser): Comprehensive details about the advertiser, ensuring transparency.
+- [Creative Content](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#3-creative-content-creative): In-depth information about the creative elements used in the campaign.
+- [Targeting Data](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#4-targeting-targeting): Granular information on how the ad targets specific audience segments.
+- [Financials](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#5-payments-payments): Detailed breakdown of the campaign's budget and expenditure.
+- [Moderation Status](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#6-moderation-moderation): Information on the ad's compliance with platform guidelines.
+- [Extensible Parameters](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/blob/main/documentation.md#7-parameters-parameters): A flexible section for platform-specific data.
+
+Each aspect is open to discussion in the [Discussions section](https://github.com/CheckFirstHQ/DSA-Standardized-Digital-Advertising-Format/discussions) of this git. 
 
 ## Contributions
 
