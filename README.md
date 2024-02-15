@@ -1,8 +1,8 @@
-# Standardized Digital Advertising Format (SDAF) Project
+# Standardised Digital Advertising Format (SDAF) Project
 
 ## Overview
 
-The SDAF project is an open-source initiative aimed at establishing a standardized format for digital advertising data. Developed in the context of the Digital Services Act (DSA), this project focuses on enhancing the interoperability of APIs and repositories used in digital advertising. By bridging the operational needs of advertising platforms with the analytical insights required by the research community, SDAF strives to promote greater transparency and efficiency in the digital advertising ecosystem.
+The SDAF project is an open-source initiative aimed at establishing a standardised format for digital advertising data. Developed in the context of the Digital Services Act (DSA), this project focuses on enhancing the interoperability of APIs and repositories used in digital advertising. By bridging the operational needs of advertising platforms with the analytical insights required by the research community, SDAF strives to promote greater transparency and efficiency in the digital advertising ecosystem.
 
 
 ## Objective
