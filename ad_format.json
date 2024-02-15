@@ -1,0 +1,151 @@
+{
+	"campaign_id": "CMP1122334455",
+	"advertiser": {
+		"advertiser_id": "ADV987654321",
+		"advertiser_name": "EcoFriendly",
+		"advertiser_location": "Paris, France",
+		"funder_legal_name": "EcoFriendly Products S.A.R.L.",
+		"funder_vat": "FR123456789"
+	},
+	"start_date": "2024-05-01",
+	"end_date": "2024-06-01",
+	"creative": [
+		{
+			"creative_id": "CREA998872537999",
+			"creative_type": "Carousel",
+			"creative_title": "Sustainable Living Solutions",
+			"creative_description": "Discover our range of eco-friendly home products.",
+			"creative_media_urls": [
+				"https://example.com/image.jpg",
+				"https://example.com/image1.jpg"
+			],
+			"creative_action": {
+				"objective": "Website Traffic",
+				"destination_url": "https://www.ecofriendlyproducts.com",
+				"caption": "ecofriendlyproducts.com",
+				"title": "Eco Friendly Products Home"
+			},
+			"interactions": {
+				"clicks": 1500,
+				"impressions": 30000,
+				"engagements": [
+					{
+						"type": "Likes",
+						"count": 250
+					},
+					{
+						"type": "Comments",
+						"count": 40
+					}
+				]
+			}
+		}
+	],
+	"targeting": {
+		"FR": {
+			"Île-de-France": {
+				"Male": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"Female": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"languages": [
+					"French"
+				],
+				"first_shown_date": "2024-05-01",
+				"last_shown_date": "2024-05-15"
+			},
+			"Normandie": {
+				"Male": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"Female": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"languages": [
+					"French"
+				],
+				"first_shown_date": "2024-05-01",
+				"last_shown_date": "2024-05-15"
+			}
+		},
+		"DE": {
+			"All": {
+				"Male": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"Female": {
+					"18-24": {
+						"reach": "20000-25000",
+						"impressions": 22000
+					},
+					"25-34": {
+						"reach": "10000-15000",
+						"impressions": 3000
+					}
+				},
+				"languages": [
+					"French"
+				],
+				"first_shown_date": "2024-05-01",
+				"last_shown_date": "2024-05-15"
+			}
+		}
+	},
+	"payments": {
+		"campaign_actual_cost": "100-500",
+		"campaign_expected_total_cost": "1000-2500",
+		"campaign_payment_currency": "EUR"
+	},
+	"moderation": {
+		"status": "Approved",
+		"moderation_decision": [
+			{
+				"date": "2024-04-30",
+				"decision": "Approved"
+			}
+		]
+	},
+	"parameters": {
+		"keywords": [
+			"eco-friendly",
+			"ecology"
+		]
+	}
+}
