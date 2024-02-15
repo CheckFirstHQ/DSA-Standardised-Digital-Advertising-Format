@@ -74,10 +74,6 @@ This array contains details of each creative element in the campaign.
   ]
   ```
 
-In the next part, I will cover the documentation for the `targeting`, `payments`, `moderation`, and `parameters` sections.
-
-Continuing with the documentation, let's delve into the `targeting`, `payments`, `moderation`, and `parameters` sections:
-
 ## 4. Targeting (`targeting`)
 This section outlines the ad's audience targeting strategy, segmented by geography and demographics.
 
