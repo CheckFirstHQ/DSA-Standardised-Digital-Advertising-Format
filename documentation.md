@@ -89,7 +89,10 @@ This section outlines the ad's audience targeting strategy, segmented by geograp
   "targeting": {
     "FR": {
       "Île-de-France": {
-        "Male": { "18-24": { /* reach, impressions, etc. */ } },
+        "Male": { "18-24": {
+          "reach": "20000-25000",
+		      "impressions": 22000
+        } },
         "Female": { "25-34": { /* reach, impressions, etc. */ } },
         "languages": ["French"],
         "first_shown_date": "2024-05-01",
